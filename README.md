@@ -34,6 +34,7 @@ My engineering approach is disciplined, quality-driven, and aligned with product
 - **Full Stack Delivery:** complete feature development from UI to database
 - **Software Quality:** testing strategy, refactoring, code review practices
 - **System Design:** reliability, performance, and maintainable architecture
+- **Containers:** Docker for consistent environments and deployment workflows
 - **Professional Delivery:** documentation, ownership, and execution discipline
 
 ---
@@ -54,6 +55,7 @@ My engineering approach is disciplined, quality-driven, and aligned with product
   <img src="https://img.shields.io/badge/GitHub-0F0F11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Azure-0F0F11?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
   <img src="https://img.shields.io/badge/CI%2FCD-0F0F11?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Docker-0F0F11?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
 ---
