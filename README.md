@@ -1,11 +1,11 @@
 <h1 align="center">Hassaan Habib</h1>
 
 <p align="center">
-  <strong>Full Stack Web Developer | IT Engineer and Developer | Clean Architecture</strong>
+  <strong>Full Stack Web Developer | AI-Based Applications | IT Engineer and Developer | Clean Architecture</strong>
 </p>
 
 <p align="center">
-  I design and deliver modern web applications end-to-end with a focus on usability, scalability, maintainability, and measurable business value.
+  I design and deliver modern web applications end-to-end — including AI-powered features — with a focus on usability, scalability, maintainability, and measurable business value.
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@ I work across the software delivery lifecycle, from architecture decisions to pr
 My engineering approach is disciplined, quality-driven, and aligned with product outcomes.
 
 - Design and develop end-to-end web solutions across frontend and backend
+- Build AI-based applications and integrate ML workflows (experience with **ML**, **Keras**, and **YOLO** for deep learning and object detection)
 - Build clean, testable codebases using strong engineering standards
 - Collaborate clearly with teams and stakeholders to deliver dependable results
 
@@ -35,6 +36,7 @@ My engineering approach is disciplined, quality-driven, and aligned with product
 - **Software Quality:** testing strategy, refactoring, code review practices
 - **System Design:** reliability, performance, and maintainable architecture
 - **Containers:** Docker for consistent environments and deployment workflows
+- **AI & Machine Learning:** AI-driven product features; ML with Keras; computer vision and detection workflows with YOLO
 - **Professional Delivery:** documentation, ownership, and execution discipline
 
 ---
@@ -52,6 +54,8 @@ My engineering approach is disciplined, quality-driven, and aligned with product
   <img src="https://img.shields.io/badge/Python-0F0F11?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-0F0F11?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0F0F11?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Keras-0F0F11?style=for-the-badge&logo=keras&logoColor=D00000" alt="Keras" />
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-0F0F11?style=for-the-badge" alt="YOLO object detection" />
   <img src="https://img.shields.io/badge/GitHub-0F0F11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Azure-0F0F11?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
   <img src="https://img.shields.io/badge/CI%2FCD-0F0F11?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD" />
@@ -63,6 +67,7 @@ My engineering approach is disciplined, quality-driven, and aligned with product
 ## Current Focus
 
 - Building scalable full stack web applications with clean architecture principles
+- Shipping AI-based application features and reliable ML integration paths
 - Improving observability and operational reliability
 - Applying modern practices for high-performing engineering teams
 
