@@ -1,11 +1,12 @@
 <h1 align="center">Hassaan Habib</h1>
 
 <p align="center">
-  <strong>Full Stack Web Developer | AI-Based Applications | IT Engineer and Developer | Clean Architecture</strong>
+  <strong>.NET Full-Stack Developer | ASP.NET Core · Angular · Azure</strong>
 </p>
 
 <p align="center">
-  I design and deliver modern web applications end-to-end — including AI-powered features — with a focus on usability, scalability, maintainability, and measurable business value.
+  .NET Full-Stack Software Engineer with 1+ year of experience building production-ready enterprise applications.<br/>
+  I work across ASP.NET Core, C#, Angular, and SQL Server — from REST APIs and Entity Framework to Azure CI/CD and AI-powered features.
 </p>
 
 <p align="center">
@@ -16,60 +17,78 @@
 
 ---
 
-## Professional Summary
+## About Me
 
-I work across the software delivery lifecycle, from architecture decisions to production readiness.  
-My engineering approach is disciplined, quality-driven, and aligned with product outcomes.
+I design and ship enterprise web applications end-to-end — backend services, front-end interfaces, database modeling, and cloud deployment. My work spans multi-tenant platforms, LMS tooling, booking systems, and AI integrations including LLM chatbots with RAG pipelines.
 
-- Design and develop end-to-end web solutions across frontend and backend
-- Build AI-based applications and integrate ML workflows (experience with **ML**, **Keras**, and **YOLO** for deep learning and object detection)
-- Build clean, testable codebases using strong engineering standards
-- Collaborate clearly with teams and stakeholders to deliver dependable results
+- Build and maintain production systems with **ASP.NET Core**, **C#**, **Angular**, and **SQL Server**
+- Design **RESTful APIs**, model data with **Entity Framework**, and deploy to **Microsoft Azure**
+- Ship through **GitHub**, **Azure DevOps CI/CD**, and **Docker**; manage self-hosted deployments via SSH
+- Integrate **AI features** — LLM-powered chatbots, RAG pipelines, and applied ML (e.g. license-plate & currency detection)
 
 ---
 
-## Core Competencies
+## Experience
 
-- **Frontend Engineering:** responsive UI, reusable components, user-focused design
-- **Backend Engineering:** APIs, service architecture, integrations
-- **Full Stack Delivery:** complete feature development from UI to database
-- **Software Quality:** testing strategy, refactoring, code review practices
-- **System Design:** reliability, performance, and maintainable architecture
-- **Containers:** Docker for consistent environments and deployment workflows
-- **AI & Machine Learning:** AI-driven product features; ML with Keras; computer vision and detection workflows with YOLO
-- **Professional Delivery:** documentation, ownership, and execution discipline
+### Software Developer · SysInteractive
+**Jan 2026 – Present** · Rawalpindi, Pakistan
+
+- Develop **Iqra'as** ([iqrass.com](https://iqrass.com)) — enterprise platform with ASP.NET / C# backend and Angular front-end, including the **Rawdah LMS Template Builder** (drag-and-drop form builder with live preview)
+- Delivered **CharityTrak** — multi-tenant charity-governance platform (ASP.NET, Angular, Azure) with role-based access across organizations
+- Built the **Nikkah App** — standalone React web application
+- Deploy to **Microsoft Azure** via GitHub and Azure DevOps CI/CD with Docker
+- Built **Lodge Logic** — full-stack booking platform (Django, Python, React) with an integrated AI chatbot (LLM API + RAG pipeline), authentication, and RBAC
+
+### Software Engineering Intern · SysInteractive
+**May 2025 – Dec 2025** · Rawalpindi, Pakistan
+
+- Designed and integrated RESTful APIs across multiple projects; built a team referral system
+- Built a **GPA calculator** (React) and a **food-delivery application** (Django)
+- Implemented ML solutions including **license-plate recognition** and **currency-note detection**
+
+---
+
+## Education
+
+**B.S. in Computer Science** · COMSATS University Islamabad — Wah Campus  
+2022 – 2026 · Pakistan · ACM Code Hub Member (COMSATS)
 
 ---
 
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
-  <img src="https://img.shields.io/badge/HTML5-0F0F11?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0F0F11?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Laravel-0F0F11?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Django-0F0F11?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-0F0F11?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/C%23-0F0F11?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-0F0F11?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-0F0F11?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Django-0F0F11?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
   <img src="https://img.shields.io/badge/Python-0F0F11?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0F0F11?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0F0F11?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Keras-0F0F11?style=for-the-badge&logo=keras&logoColor=D00000" alt="Keras" />
-  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-0F0F11?style=for-the-badge" alt="YOLO object detection" />
-  <img src="https://img.shields.io/badge/GitHub-0F0F11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/SQL%20Server-0F0F11?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-0F0F11?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F0F11?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0F0F11?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F0F11?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Azure-0F0F11?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0F0F11?style=for-the-badge&logo=azuredevops&logoColor=0078D7" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/CI%2FCD-0F0F11?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Docker-0F0F11?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-0F0F11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0F0F11?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
 </p>
 
 ---
 
-## Current Focus
+## Core Skills
 
-- Building scalable full stack web applications with clean architecture principles
-- Shipping AI-based application features and reliable ML integration paths
-- Improving observability and operational reliability
-- Applying modern practices for high-performing engineering teams
+| Area | Technologies |
+|------|-------------|
+| **Backend & APIs** | ASP.NET Core, Entity Framework, RESTful Web API, Django, Django REST Framework |
+| **Frontend** | Angular, React, TypeScript, HTML, CSS, Tailwind CSS |
+| **Cloud & DevOps** | Microsoft Azure, Azure DevOps, CI/CD, Git, GitHub, Docker, Agile, Scrum |
+| **Databases** | SQL Server, MySQL, PostgreSQL, MongoDB, relational modeling, NoSQL |
 
 ---
 
@@ -77,4 +96,4 @@ My engineering approach is disciplined, quality-driven, and aligned with product
 
 - **LinkedIn:** [linkedin.com/in/hassaan-habib](https://www.linkedin.com/in/hassaan-habib)
 
-I am always open to discussing impactful engineering opportunities and meaningful collaborations.
+Open to impactful engineering opportunities and meaningful collaborations.
