@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  .NET Full-Stack Software Engineer with 1+ year of experience building production-ready enterprise applications.<br/>
+  .NET Full-Stack Software Engineer building production-ready enterprise applications.<br/>
   I work across ASP.NET Core, C#, Angular, and SQL Server — from REST APIs and Entity Framework to Azure CI/CD and AI-powered features.
 </p>
 
@@ -25,26 +25,6 @@ I design and ship enterprise web applications end-to-end — backend services, f
 - Design **RESTful APIs**, model data with **Entity Framework**, and deploy to **Microsoft Azure**
 - Ship through **GitHub**, **Azure DevOps CI/CD**, and **Docker**; manage self-hosted deployments via SSH
 - Integrate **AI features** — LLM-powered chatbots, RAG pipelines, and applied ML (e.g. license-plate & currency detection)
-
----
-
-## Experience
-
-### Software Developer · SysInteractive
-**Jan 2026 – Present** · Rawalpindi, Pakistan
-
-- Develop **Iqra'as** ([iqrass.com](https://iqrass.com)) — enterprise platform with ASP.NET / C# backend and Angular front-end, including the **Rawdah LMS Template Builder** (drag-and-drop form builder with live preview)
-- Delivered **CharityTrak** — multi-tenant charity-governance platform (ASP.NET, Angular, Azure) with role-based access across organizations
-- Built the **Nikkah App** — standalone React web application
-- Deploy to **Microsoft Azure** via GitHub and Azure DevOps CI/CD with Docker
-- Built **Lodge Logic** — full-stack booking platform (Django, Python, React) with an integrated AI chatbot (LLM API + RAG pipeline), authentication, and RBAC
-
-### Software Engineering Intern · SysInteractive
-**May 2025 – Dec 2025** · Rawalpindi, Pakistan
-
-- Designed and integrated RESTful APIs across multiple projects; built a team referral system
-- Built a **GPA calculator** (React) and a **food-delivery application** (Django)
-- Implemented ML solutions including **license-plate recognition** and **currency-note detection**
 
 ---
 
