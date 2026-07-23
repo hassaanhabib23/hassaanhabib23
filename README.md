@@ -1,79 +1,135 @@
-<h1 align="center">Hassaan Habib</h1>
+<div align="center">
 
-<p align="center">
-  <strong>.NET Full-Stack Developer | ASP.NET Core · Angular · Azure</strong>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0B1220&height=180&section=header&text=Hassaan%20Habib&fontSize=42&fontColor=E5E7EB&fontAlignY=35&desc=.NET%20Full-Stack%20%7C%20AI%20Software%20Engineer&descAlignY=55&descSize=16" alt="Hassaan Habib" />
 
-<p align="center">
-  .NET Full-Stack Software Engineer building production-ready enterprise applications.<br/>
-  I work across ASP.NET Core, C#, Angular, and SQL Server — from REST APIs and Entity Framework to Azure CI/CD and AI-powered features.
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassaan-habib">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=93C5FD&center=true&vCenter=true&width=680&lines=Enterprise+.NET+Full-Stack+Development;AI-Powered+Applications+%26+RAG+Systems;ASP.NET+Core+%C2%B7+Angular+%C2%B7+Python+%C2%B7+Azure" alt="Typing headline" />
 
----
+<br/><br/>
 
-## About Me
+<a href="https://github.com/hassaanhabib23">
+  <img src="https://img.shields.io/badge/GitHub-hassaanhabib23-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hassaan-habib">
+  <img src="https://img.shields.io/badge/LinkedIn-hassaan--habib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+</a>
 
-I design and ship enterprise web applications end-to-end — backend services, front-end interfaces, database modeling, and cloud deployment. My work spans multi-tenant platforms, LMS tooling, booking systems, and AI integrations including LLM chatbots with RAG pipelines.
+<br/><br/>
 
-- Build and maintain production systems with **ASP.NET Core**, **C#**, **Angular**, and **SQL Server**
-- Design **RESTful APIs**, model data with **Entity Framework**, and deploy to **Microsoft Azure**
-- Ship through **GitHub**, **Azure DevOps CI/CD**, and **Docker**; manage self-hosted deployments via SSH
-- Integrate **AI features** — LLM-powered chatbots, RAG pipelines, and applied ML (e.g. license-plate & currency detection)
+<img src="https://img.shields.io/badge/.NET-Full--Stack-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/AI-Engineering-111827?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+<img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Frontend-Angular%20%2F%20React-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Frontend" />
 
----
-
-## Education
-
-**B.S. in Computer Science** · COMSATS University Islamabad — Wah Campus  
-2022 – 2026 · Pakistan · ACM Code Hub Member (COMSATS)
+</div>
 
 ---
 
-## Tech Stack
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-0F0F11?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/C%23-0F0F11?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-0F0F11?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="Entity Framework" />
-  <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-0F0F11?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Django-0F0F11?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
-  <img src="https://img.shields.io/badge/Python-0F0F11?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL%20Server-0F0F11?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-0F0F11?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F0F11?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0F0F11?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F0F11?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Azure-0F0F11?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0F0F11?style=for-the-badge&logo=azuredevops&logoColor=0078D7" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0F0F11?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Docker-0F0F11?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-0F0F11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0F0F11?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
-</p>
+### Profile
+
+.NET Full-Stack and AI-focused Software Engineer building production-ready web applications and intelligent systems.
+
+I design end-to-end solutions across backend services, modern frontends, cloud deployment, and AI features — from REST APIs and enterprise platforms to LLM chatbots, RAG pipelines, and computer vision.
+
+<br/>
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **.NET Full-Stack** | ASP.NET Core · C# · Angular · Entity Framework · SQL Server |
+| **AI Engineering** | Python · Django · LLM APIs · RAG · Computer Vision · ML |
+| **Cloud & Delivery** | Microsoft Azure · CI/CD · Docker · Azure DevOps · GitHub |
+
+</div>
+
+<br/>
 
 ---
 
-## Core Skills
+<br/>
 
-| Area | Technologies |
-|------|-------------|
-| **Backend & APIs** | ASP.NET Core, Entity Framework, RESTful Web API, Django, Django REST Framework |
-| **Frontend** | Angular, React, TypeScript, HTML, CSS, Tailwind CSS |
-| **Cloud & DevOps** | Microsoft Azure, Azure DevOps, CI/CD, Git, GitHub, Docker, Agile, Scrum |
-| **Databases** | SQL Server, MySQL, PostgreSQL, MongoDB, relational modeling, NoSQL |
+### Technical Capabilities
+
+```text
+Backend     →  C# · ASP.NET Core · Entity Framework · Python · Django · REST APIs
+Frontend    →  Angular · React · TypeScript · JavaScript · HTML · CSS · Tailwind
+AI / ML     →  LLM Integration · RAG Pipelines · PyTorch · TensorFlow · OpenCV
+Cloud       →  Microsoft Azure · Azure DevOps · CI/CD · Docker · Git · GitHub
+Databases   →  SQL Server · MySQL · PostgreSQL · MongoDB
+Quality     →  Postman · Manual Testing · Agile / Scrum
+```
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+
+</div>
+
+<br/>
 
 ---
 
-## Contact
+<br/>
 
-- **LinkedIn:** [linkedin.com/in/hassaan-habib](https://www.linkedin.com/in/hassaan-habib)
+### Education
 
-Open to impactful engineering opportunities and meaningful collaborations.
+<div align="center">
+
+**B.S. in Computer Science**  
+COMSATS University Islamabad — Wah Campus  
+2022 – 2026 · ACM Code Hub Member
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### GitHub Insights
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hassaanhabib23&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=93C5FD&icon_color=60A5FA&text_color=E5E7EB" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanhabib23&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=93C5FD&text_color=E5E7EB" alt="Top languages" />
+
+<br/><br/>
+
+### Connect
+
+<a href="https://github.com/hassaanhabib23">
+  <img src="https://img.shields.io/badge/GitHub-hassaanhabib23-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hassaan-habib">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<sub>Open to collaborations in enterprise .NET development and AI-powered product engineering.</sub>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0B1220&height=100&section=footer" alt="footer" />
